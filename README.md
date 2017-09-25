@@ -1,2 +1,2 @@
 # gmodCusHud
-Gmod Fully Customizale guds
+Gmod Fully Customizale huds
